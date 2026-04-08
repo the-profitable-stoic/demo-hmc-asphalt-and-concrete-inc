@@ -1,0 +1,560 @@
+{
+  "business": {
+    "name": "HMC Asphalt and Concrete Inc.",
+    "phone": "+12147638013",
+    "category": "driveway paving",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Dallas's Durable Driveway Experts",
+      "heroSubline": "HMC Asphalt and Concrete delivers lasting asphalt and concrete solutions for Dallas homes and businesses. Get a free quote today!",
+      "aboutTitle": "Decades of Dallas Driveway Expertise",
+      "aboutText": [
+        "HMC Asphalt and Concrete Inc. started with a simple goal: to provide Dallas-Fort Worth with reliable, durable driveway paving solutions. For over a decade, we've poured our expertise into every project, big or small, earning a reputation for quality and integrity.",
+        "Our approach is straightforward: understand your needs, assess your property, and deliver a paving solution that stands the test of time. We use only the highest-grade materials and employ proven techniques to ensure a smooth, long-lasting finish. We believe in clear communication, honest pricing, and exceeding expectations.",
+        "We're proud to be a part of the Dallas community. We source materials locally whenever possible and actively support neighborhood initiatives. When you choose HMC, you're not just getting a driveway; you're investing in a local business committed to quality and community."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use premium-grade asphalt and concrete mixes designed to withstand Dallas's extreme weather conditions."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our experienced crew ensures precise installation and meticulous attention to detail on every project."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "We provide clear, upfront quotes with no hidden fees, so you know exactly what to expect."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a comprehensive warranty, ensuring your peace of mind."
+        }
+      ],
+      "ctaHeadline": "Ready for a New Driveway?",
+      "ctaSubline": "Contact HMC Asphalt and Concrete today for a free, no-obligation quote."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "Durable, cost-effective asphalt driveways built to last in Dallas.",
+        "description": "Asphalt driveways offer a cost-effective and durable solution for Dallas homeowners. HMC Asphalt and Concrete Inc. specializes in asphalt driveway paving, providing smooth, long-lasting surfaces designed to withstand the Texas heat and occasional ice storms. Our process begins with a thorough site assessment, taking into account drainage, soil conditions, and existing structures. We then prepare the base with compacted gravel to ensure proper support and prevent cracking. \n\nWe use a high-quality asphalt mix specifically formulated for residential driveways, ensuring optimal flexibility and resistance to wear and tear. Our experienced crew expertly lays and compacts the asphalt, creating a seamless, even surface. We also offer sealcoating services to protect your asphalt driveway from UV damage, oil spills, and other environmental factors, extending its lifespan and maintaining its appearance. \n\nWhether you're looking to replace an old, cracked driveway or install a new one, HMC Asphalt and Concrete delivers superior asphalt paving services that enhance your property's curb appeal and value. We handle everything from excavation to final cleanup, ensuring a hassle-free experience for our clients.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Base Layer Installation (Compacted Gravel)",
+          "Step 3: Asphalt Paving and Compaction",
+          "Step 4: Sealcoating (Optional)"
+        ],
+        "benefits": [
+          "Cost-Effective Solution",
+          "Durable and Long-Lasting",
+          "Smooth, Even Surface",
+          "Increased Curb Appeal"
+        ],
+        "faq": [
+          {
+            "question": "How long will an asphalt driveway last in Dallas?",
+            "answer": "With proper installation and maintenance, an asphalt driveway can last 15-20 years in the Dallas climate. Sealcoating every 2-3 years helps protect against UV damage and extends its lifespan."
+          },
+          {
+            "question": "What is the cost of asphalt driveway paving?",
+            "answer": "The cost varies depending on the size and complexity of the project. We provide free, no-obligation quotes to give you an accurate estimate."
+          },
+          {
+            "question": "How soon can I drive on my new asphalt driveway?",
+            "answer": "We recommend waiting at least 24-48 hours before driving on your new asphalt driveway to allow it to fully cure and harden."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-driveway-paving",
+        "name": "Concrete Driveway Paving",
+        "shortDescription": "Premium concrete driveways for a durable and stylish Dallas home.",
+        "description": "Concrete driveways offer exceptional durability and versatility, making them a popular choice for Dallas homeowners. HMC Asphalt and Concrete Inc. specializes in concrete driveway paving, delivering smooth, crack-resistant surfaces that enhance your property's value. Our process begins with careful site preparation, including excavation, grading, and compaction of the sub-base. We then install a reinforced steel mesh to provide added strength and prevent cracking due to soil movement or heavy loads. \n\nWe use a high-strength concrete mix specifically designed for driveways, ensuring optimal durability and resistance to weathering. Our experienced crew expertly pours and finishes the concrete, creating a smooth, even surface. We also offer a variety of decorative options, including stamped concrete, exposed aggregate, and colored concrete, allowing you to customize your driveway to match your home's style. \n\nWhether you're looking for a classic, modern, or unique driveway design, HMC Asphalt and Concrete delivers superior concrete paving services that exceed your expectations. We handle everything from initial consultation to final cleanup, ensuring a seamless and stress-free experience.",
+        "process": [
+          "Step 1: Site Preparation and Excavation",
+          "Step 2: Reinforced Steel Mesh Installation",
+          "Step 3: Concrete Pouring and Finishing",
+          "Step 4: Curing and Sealing"
+        ],
+        "benefits": [
+          "Exceptional Durability",
+          "Versatile Design Options",
+          "Crack-Resistant Surface",
+          "Increased Property Value"
+        ],
+        "faq": [
+          {
+            "question": "How long will a concrete driveway last in Dallas?",
+            "answer": "With proper installation and maintenance, a concrete driveway can last 30-40 years or more in the Dallas climate. Sealing the concrete every 2-3 years helps protect against staining and weathering."
+          },
+          {
+            "question": "Can I customize my concrete driveway design?",
+            "answer": "Yes, we offer a variety of decorative options, including stamped concrete, exposed aggregate, and colored concrete, allowing you to create a unique and personalized driveway design."
+          },
+          {
+            "question": "How long does it take for a concrete driveway to cure?",
+            "answer": "Concrete typically takes 7-10 days to fully cure. We recommend avoiding heavy traffic on the driveway during the curing process."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-repair",
+        "name": "Driveway Repair",
+        "shortDescription": "Fix cracks and damage with expert driveway repair services in Dallas.",
+        "description": "Is your driveway cracked, uneven, or showing signs of wear and tear? HMC Asphalt and Concrete Inc. offers comprehensive driveway repair services to restore your driveway's functionality and appearance. We understand the challenges Dallas weather poses to driveways, from the expansion and contraction caused by extreme temperatures to the damage caused by heavy rainfall and occasional ice. Our experienced team can assess the damage and recommend the most effective repair solutions. \n\nFor asphalt driveways, we offer crack filling, patching, and resurfacing services to address cracks, potholes, and surface deterioration. For concrete driveways, we provide crack repair, spalling repair, and joint sealing services to prevent further damage and maintain the driveway's structural integrity. We use high-quality materials and proven techniques to ensure lasting repairs that blend seamlessly with your existing driveway. \n\nDon't let a damaged driveway detract from your home's curb appeal and value. Contact HMC Asphalt and Concrete for professional driveway repair services that restore your driveway to its former glory. We offer free estimates and prompt, reliable service.",
+        "process": [
+          "Step 1: Damage Assessment and Evaluation",
+          "Step 2: Crack Filling and Patching (Asphalt)",
+          "Step 3: Crack Repair and Spalling Repair (Concrete)",
+          "Step 4: Surface Sealing and Protection"
+        ],
+        "benefits": [
+          "Restored Driveway Appearance",
+          "Improved Safety and Functionality",
+          "Prevention of Further Damage",
+          "Extended Driveway Lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my driveway needs repair?",
+            "answer": "Common signs include cracks, potholes, uneven surfaces, and water pooling. If you notice any of these issues, it's best to have your driveway inspected by a professional."
+          },
+          {
+            "question": "How long does driveway repair take?",
+            "answer": "The duration of the repair depends on the extent of the damage. Minor repairs can be completed in a few hours, while more extensive repairs may take a day or two."
+          },
+          {
+            "question": "Is it better to repair or replace my driveway?",
+            "answer": "It depends on the severity of the damage. If the damage is extensive or the driveway is nearing the end of its lifespan, replacement may be the more cost-effective option."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-sealcoating",
+        "name": "Driveway Sealcoating",
+        "shortDescription": "Protect your asphalt driveway with professional sealcoating services in Dallas.",
+        "description": "Sealcoating is an essential maintenance procedure that protects your asphalt driveway from the damaging effects of the Dallas climate. HMC Asphalt and Concrete Inc. offers professional sealcoating services that extend the life of your asphalt driveway and enhance its appearance. Sealcoating creates a protective barrier against UV rays, oil spills, water penetration, and other environmental factors that can cause asphalt to crack, crumble, and fade. \n\nOur sealcoating process begins with a thorough cleaning of the driveway surface to remove dirt, debris, and loose gravel. We then apply a high-quality sealcoat material evenly across the surface, ensuring complete coverage. The sealcoat penetrates the asphalt, filling in minor cracks and creating a smooth, uniform finish. \n\nSealcoating not only protects your driveway but also enhances its curb appeal, giving it a fresh, new look. We recommend sealcoating your asphalt driveway every 2-3 years to maintain its optimal condition and prevent costly repairs. Contact HMC Asphalt and Concrete for professional sealcoating services that protect your investment and keep your driveway looking its best.",
+        "process": [
+          "Step 1: Driveway Cleaning and Preparation",
+          "Step 2: Crack Filling (if necessary)",
+          "Step 3: Sealcoat Application",
+          "Step 4: Curing and Drying"
+        ],
+        "benefits": [
+          "Extended Driveway Lifespan",
+          "Protection Against UV Rays and Oil Spills",
+          "Enhanced Curb Appeal",
+          "Prevention of Cracking and Crumbling"
+        ],
+        "faq": [
+          {
+            "question": "How often should I sealcoat my asphalt driveway?",
+            "answer": "We recommend sealcoating your asphalt driveway every 2-3 years to maintain its optimal condition."
+          },
+          {
+            "question": "How long does it take for sealcoat to dry?",
+            "answer": "Sealcoat typically takes 24-48 hours to fully dry. We recommend avoiding traffic on the driveway during the drying process."
+          },
+          {
+            "question": "Can I sealcoat my driveway myself?",
+            "answer": "While DIY sealcoating kits are available, professional sealcoating ensures proper application and long-lasting results. Our experienced team uses high-quality materials and equipment to deliver superior protection."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-replacement",
+        "name": "Driveway Replacement",
+        "shortDescription": "Complete driveway replacement services for worn-out or severely damaged driveways.",
+        "description": "When driveway repairs are no longer sufficient, HMC Asphalt and Concrete Inc. offers complete driveway replacement services to provide you with a brand-new, durable surface. Whether your driveway is severely cracked, crumbling, or simply outdated, our experienced team can handle the entire replacement process from start to finish. We begin with a thorough assessment of your property to determine the best replacement solution. \n\nWe then remove the old driveway, excavate the site, and prepare a solid foundation for the new driveway. We offer a variety of materials, including asphalt and concrete, to suit your specific needs and preferences. Our experienced crew expertly installs the new driveway, ensuring proper drainage, compaction, and finishing. \n\nWith a new driveway from HMC Asphalt and Concrete, you can enhance your home's curb appeal, increase its value, and enjoy a smooth, safe surface for years to come. We handle everything from demolition to final cleanup, ensuring a hassle-free experience. Contact us today for a free estimate on driveway replacement services.",
+        "process": [
+          "Step 1: Site Assessment and Demolition",
+          "Step 2: Excavation and Base Preparation",
+          "Step 3: Material Selection (Asphalt or Concrete)",
+          "Step 4: Driveway Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting Surface",
+          "Improved Safety and Functionality"
+        ],
+        "faq": [
+          {
+            "question": "How long does driveway replacement take?",
+            "answer": "Driveway replacement typically takes 2-5 days, depending on the size and complexity of the project."
+          },
+          {
+            "question": "What factors affect the cost of driveway replacement?",
+            "answer": "The cost depends on the size of the driveway, the material used (asphalt or concrete), and any site-specific challenges."
+          },
+          {
+            "question": "Do I need a permit for driveway replacement?",
+            "answer": "Permit requirements vary depending on the city and county. We can assist you in determining whether a permit is required and help you navigate the application process."
+          }
+        ]
+      },
+      {
+        "slug": "custom-driveway-design",
+        "name": "Custom Driveway Design",
+        "shortDescription": "Create a unique driveway with custom design options for your Dallas home.",
+        "description": "Elevate your home's curb appeal with a custom driveway design from HMC Asphalt and Concrete Inc. We specialize in creating unique and personalized driveways that reflect your individual style and complement your home's architecture. Whether you're looking for a classic, modern, or contemporary design, our experienced team can bring your vision to life. \n\nWe offer a wide range of design options, including stamped concrete, exposed aggregate, colored concrete, and decorative borders. We can also incorporate custom patterns, inlays, and lighting to create a truly one-of-a-kind driveway. Our design process begins with a consultation to discuss your ideas, preferences, and budget. We then create a detailed design plan that incorporates your input and ensures a seamless integration with your existing landscape. \n\nWith a custom driveway design from HMC Asphalt and Concrete, you can transform your home's exterior and make a lasting impression. Contact us today to schedule a consultation and explore the possibilities.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Material Selection and Customization",
+          "Step 3: Installation and Finishing",
+          "Step 4: Final Inspection and Approval"
+        ],
+        "benefits": [
+          "Unique and Personalized Design",
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Seamless Integration with Existing Landscape"
+        ],
+        "faq": [
+          {
+            "question": "How much does a custom driveway design cost?",
+            "answer": "The cost of a custom driveway design depends on the complexity of the design, the materials used, and the size of the driveway. We provide free estimates based on your specific needs and preferences."
+          },
+          {
+            "question": "Can you match my existing landscape design?",
+            "answer": "Yes, we can seamlessly integrate your custom driveway design with your existing landscape design to create a cohesive and harmonious look."
+          },
+          {
+            "question": "What types of materials can be used for a custom driveway design?",
+            "answer": "We offer a wide range of materials, including stamped concrete, exposed aggregate, colored concrete, pavers, and natural stone."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. is proud to offer our expert driveway paving services to the residents of Fort Worth, Texas. From the historic craftsman bungalows near downtown to the expanding suburbs, we understand the unique needs of Fort Worth homeowners. We provide durable and aesthetically pleasing asphalt and concrete solutions that stand up to the Texas climate. \n\nOur team is experienced in working with a variety of property styles and sizes throughout Fort Worth. We are committed to providing exceptional customer service and quality workmanship, ensuring your driveway enhances the curb appeal and value of your home for years to come. We know Fort Worth's hot, humid summers and design our driveways to withstand the elements.",
+        "localContext": "Fort Worth is known for its blend of western heritage and modern development, with diverse architectural styles ranging from historic bungalows to contemporary homes.",
+        "nearbyAreas": [
+          "Arlington",
+          "Grand Prairie",
+          "Benbrook"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. provides top-quality driveway paving services to the Plano, Texas community. We specialize in enhancing the look and functionality of driveways in Plano's many established subdivisions, particularly those featuring homes built in the 1980s and 1990s. We offer a range of asphalt and concrete options to complement the existing architecture of your home. \n\nOur commitment to customer satisfaction and superior craftsmanship sets us apart. We work closely with Plano homeowners to ensure their driveway paving project meets their specific needs and enhances their property's value. We understand the effects of Plano's hot, humid summers and build for durability.",
+        "localContext": "Plano is a thriving suburban city with many established neighborhoods characterized by well-maintained homes and mature landscaping.",
+        "nearbyAreas": [
+          "Frisco",
+          "Richardson",
+          "Allen"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. is dedicated to providing exceptional driveway paving services to the growing community of Frisco, Texas. With its many newer construction homes built in the 2000s and 2020s, Frisco demands modern and durable driveway solutions. We offer a wide selection of asphalt and concrete designs to complement the contemporary architecture found throughout the city. \n\nWe are dedicated to providing top-notch customer satisfaction and superior workmanship, ensuring your driveway enhances the curb appeal and value of your Frisco home for years to come. We understand Frisco's climate and build driveways to last.",
+        "localContext": "Frisco is a rapidly growing city with a focus on modern living and high-quality residential construction.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. is proud to serve the residents of McKinney, Texas, with our expert driveway paving services. From the historic downtown homes to the newer developments, we understand the diverse needs of McKinney homeowners. We offer durable and aesthetically pleasing asphalt and concrete solutions that enhance the charm and value of your property.\n\nWe are committed to providing exceptional customer service and quality workmanship, ensuring your driveway meets your specific requirements and complements the unique character of your McKinney home. We know McKinney's hot, humid summers and design for the elements.",
+        "localContext": "McKinney boasts a charming historic downtown area alongside modern residential developments, creating a unique blend of old and new.",
+        "nearbyAreas": [
+          "Frisco",
+          "Allen",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. offers professional driveway paving services to homeowners in Arlington, Texas. We understand the specific needs of Arlington's neighborhoods, particularly those featuring 1960s and 1970s ranch-style homes. We provide durable and aesthetically pleasing asphalt and concrete solutions that complement the classic architecture of the area.\n\nOur experienced team is dedicated to providing exceptional customer service and quality workmanship. We work closely with Arlington homeowners to ensure their driveway paving project meets their expectations and enhances the value of their property. We know Arlington's climate and build driveways to withstand the weather.",
+        "localContext": "Arlington is a large city with a mix of residential areas, including many established neighborhoods with ranch-style homes.",
+        "nearbyAreas": [
+          "Grand Prairie",
+          "Fort Worth",
+          "Mansfield"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. is a trusted provider of driveway paving services in Richardson, Texas. We cater to the diverse residential areas of Richardson, offering a range of asphalt and concrete options to suit various architectural styles. Whether you have a classic suburban home or a modern residence, we have the expertise to enhance your property's curb appeal.\n\nWe are committed to delivering exceptional customer service and high-quality workmanship. Our team works closely with Richardson homeowners to ensure their driveway paving project is completed to their satisfaction and adds value to their home. We understand the effects of the Texas climate and build for longevity.",
+        "localContext": "Richardson is a well-established city known for its excellent schools, diverse community, and mix of residential and commercial areas.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. proudly serves the Garland, Texas community with our expert driveway paving services. We understand the diverse needs of Garland homeowners, offering a range of asphalt and concrete solutions to complement various architectural styles. From established neighborhoods to newer developments, we have the expertise to transform your driveway.\n\nOur commitment to customer satisfaction and superior workmanship sets us apart. We work closely with Garland homeowners to ensure their driveway paving project meets their specific requirements and enhances their property's value. We know Garland's hot, humid summers and design our driveways to withstand the elements.",
+        "localContext": "Garland is a large city with a mix of residential, commercial, and industrial areas, offering a diverse range of housing options.",
+        "nearbyAreas": [
+          "Richardson",
+          "Mesquite",
+          "Rowlett"
+        ]
+      },
+      {
+        "city": "Mesquite",
+        "slug": "mesquite-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. is pleased to offer our professional driveway paving services to the residents of Mesquite, Texas. We understand the unique characteristics of Mesquite's residential areas, providing a range of asphalt and concrete options to suit various home styles. Whether you're looking to replace an aging driveway or enhance the curb appeal of your property, we have the expertise to deliver exceptional results.\n\nOur team is dedicated to providing excellent customer service and high-quality workmanship. We work closely with Mesquite homeowners to ensure their driveway paving project is completed to their satisfaction and adds value to their home. We understand the effects of the Texas climate and build for longevity.",
+        "localContext": "Mesquite is a city with a strong sense of community, offering a mix of residential neighborhoods and commercial areas.",
+        "nearbyAreas": [
+          "Garland",
+          "Balch Springs",
+          "Sunnyvale"
+        ]
+      },
+      {
+        "city": "Grand Prairie",
+        "slug": "grand-prairie-tx",
+        "state": "TX",
+        "content": "HMC Asphalt and Concrete Inc. provides exceptional driveway paving services to homeowners in Grand Prairie, Texas. We understand the diverse housing styles in Grand Prairie and offer a range of asphalt and concrete solutions tailored to your unique needs. Whether you have a traditional home or a more modern residence, we can enhance your property's curb appeal with a durable and aesthetically pleasing driveway.\n\nOur commitment to customer satisfaction and superior workmanship sets us apart. We work closely with Grand Prairie homeowners to ensure their driveway paving project meets their specific requirements and enhances their property's value. We know Grand Prairie's hot, humid summers and design our driveways to withstand the elements.",
+        "localContext": "Grand Prairie is a large city with a diverse mix of residential neighborhoods, commercial centers, and recreational areas.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Irving"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "HMC Asphalt and Concrete did an amazing job with our new asphalt driveway. The crew was professional, efficient, and the finished product is fantastic. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Concrete Driveway Repair",
+        "text": "We had some serious cracks in our concrete driveway. HMC came out and repaired them quickly and affordably. It's not perfect, but it's a huge improvement and should last for years to come.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Driveway Sealcoating",
+        "text": "HMC sealcoated our asphalt driveway and it looks brand new! They were on time, professional, and did a great job protecting our driveway from the Texas sun.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Concrete Driveway Paving",
+        "text": "From start to finish, HMC Asphalt and Concrete was a pleasure to work with. They installed a beautiful concrete driveway for us, and we couldn't be happier with the results. The crew was meticulous and paid attention to every detail.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Ashley P.",
+        "rating": 4,
+        "service": "Driveway Repair",
+        "text": "They fixed a large pothole in our asphalt driveway. The repair seems solid and hopefully will last. Good communication and fair pricing.",
+        "date": "2024-11-12"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "HMC Asphalt and Concrete exceeded our expectations. They were professional, reliable, and the quality of their work is outstanding. Our new asphalt driveway looks fantastic and is built to last.",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "HMC Asphalt & Concrete - Dallas Driveway Paving",
+        "description": "Reliable Dallas driveway paving. Asphalt & concrete installation, repair, & sealcoating. Free quotes! Serving Dallas, Fort Worth, Plano, & more."
+      },
+      "about": {
+        "title": "About HMC Asphalt & Concrete | Dallas Driveway Experts",
+        "description": "Learn about HMC Asphalt & Concrete in Dallas. Quality driveway paving, asphalt repair, and concrete services. Local experts you can trust."
+      },
+      "services": {
+        "title": "Driveway Paving Services | HMC Asphalt & Concrete",
+        "description": "Asphalt & concrete driveway services in Dallas. Installation, repair, sealcoating, & replacement. Durable solutions for your home or business."
+      },
+      "contact": {
+        "title": "Contact HMC Asphalt & Concrete | Dallas Driveway Quotes",
+        "description": "Contact HMC Asphalt & Concrete for free driveway paving quotes in Dallas. Reliable asphalt & concrete services. Call us today!"
+      },
+      "reviews": {
+        "title": "HMC Asphalt & Concrete Reviews | Dallas Driveway Paving",
+        "description": "Read reviews for HMC Asphalt & Concrete. See why Dallas residents trust us for quality driveway paving, repair, and sealcoating services."
+      },
+      "service-areas": {
+        "title": "Driveway Paving Service Areas | HMC Asphalt & Concrete",
+        "description": "HMC Asphalt & Concrete provides driveway paving services in Dallas, Fort Worth, Plano, Frisco, McKinney, & Arlington. Get a free quote now!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "concrete-driveway-paving": "/images/service-concrete-driveway-paving.webp",
+      "driveway-repair": "/images/service-driveway-repair.webp",
+      "driveway-sealcoating": "/images/service-driveway-sealcoating.webp",
+      "driveway-replacement": "/images/service-driveway-replacement.webp",
+      "custom-driveway-design": "/images/service-custom-driveway-design.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-driveway-paving": {
+        "src": "/images/service-concrete-driveway-paving.webp",
+        "srcset": "/images/service-concrete-driveway-paving-400w.webp 400w, /images/service-concrete-driveway-paving-800w.webp 800w, /images/service-concrete-driveway-paving-1200w.webp 1200w, /images/service-concrete-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-repair": {
+        "src": "/images/service-driveway-repair.webp",
+        "srcset": "/images/service-driveway-repair-400w.webp 400w, /images/service-driveway-repair-800w.webp 800w, /images/service-driveway-repair-1200w.webp 1200w, /images/service-driveway-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-sealcoating": {
+        "src": "/images/service-driveway-sealcoating.webp",
+        "srcset": "/images/service-driveway-sealcoating-400w.webp 400w, /images/service-driveway-sealcoating-800w.webp 800w, /images/service-driveway-sealcoating-1200w.webp 1200w, /images/service-driveway-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-replacement": {
+        "src": "/images/service-driveway-replacement.webp",
+        "srcset": "/images/service-driveway-replacement-400w.webp 400w, /images/service-driveway-replacement-800w.webp 800w, /images/service-driveway-replacement-1200w.webp 1200w, /images/service-driveway-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-driveway-design": {
+        "src": "/images/service-custom-driveway-design.webp",
+        "srcset": "/images/service-custom-driveway-design-400w.webp 400w, /images/service-custom-driveway-design-800w.webp 800w, /images/service-custom-driveway-design-1200w.webp 1200w, /images/service-custom-driveway-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
